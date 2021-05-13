@@ -8,16 +8,16 @@ R 1.50 to print out at the local printshop.
 # Airtime: 
 R10.00 for browsering into the platforms below. 
 
-# SIM CARDS 
+# Sim Cards: 
 Vodacom
 MTN
 Telkom
 Cell C 
 
-# Phone 
-Any will do
+# Phone:
+Smartphones
 
-# Platform
+# Platform:
 Chrome Online
 Edge Online
 
@@ -26,5 +26,7 @@ Edge Online
 Windows 
 Ubuntu 
 MAC OS Yosemite
+
+Terms and Conditions.
 
 
